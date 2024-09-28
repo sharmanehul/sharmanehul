@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nehul Sharma</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🔭 I’m currently working on **Brick-Bounty**
-
 - 🌱 I’m currently learning **DSA with C++**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
