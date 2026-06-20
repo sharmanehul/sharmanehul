@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Nodejs,Reactjs,Redux**
 
-- 📫 How to reach me **sharmanehul699@gmail.com**
+- 📫 How to reach me **nehulsharma98@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1rnYVBcxJW7VbaY_ulyl6Wihbskg2iYG6/view?usp=sharing](https://drive.google.com/file/d/1rnYVBcxJW7VbaY_ulyl6Wihbskg2iYG6/view?usp=sharing)
 
